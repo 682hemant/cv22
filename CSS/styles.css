@@ -1,0 +1,32 @@
+article{
+text-align: center;
+}
+
+body{
+  background-color: #81f5ff;
+}
+.cricket{
+  background-color: red;
+}
+.circular{
+  border-radius: 100%;
+}
+.frog{
+  background-color: green;
+}
+
+h1{
+  color: red;
+}
+h3{
+  color:red;
+}
+.circular:hover{
+  background-color:gold;
+}
+article{
+text-align: center;
+}
+img:hover{
+  background-color: gold;  
+}
